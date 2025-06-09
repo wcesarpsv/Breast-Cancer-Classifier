@@ -24,15 +24,15 @@ The project uses the [Wisconsin Diagnostic Breast Cancer (WDBC)](https://archive
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/wcesarpsv/Breast-Cancer-Classifier]
    ```
 2. Navigate to the project folder:
-   ```bash
-   cd YOUR_REPOSITORY_NAME
+   ```
+   cd Breast-Cancer-Classifier
    ```
 3. Run the Python script or open the Jupyter Notebook.
-   ```bash
-   python your_script_name.py
+   ```
+   python Breast-Cancer-Classifier_Git.ipynb
    ```
 
 ## Results
